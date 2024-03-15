@@ -1,8 +1,10 @@
-<h1>👋 &nbsp;Olá, me chamo Roni, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, me chamo Roni, um desenvolvedor full stack apaixonado pelo que faço!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/roni-febrone-97b007275/"><img src="https://img.shields.io/badge/-Roni%20Febrone%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-ronifebrone9@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:ronifebrone9@gmail.com"><img src="https://img.shields.io/badge/-ronifebrone9@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://api.sheetmonkey.io/form/9GvobwFQxu2WgcHWg6yY5S">
+    <img style="height: 20px;" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 </p>
 
@@ -26,8 +28,10 @@
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
+
 
 
