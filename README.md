@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/roni-febrone-97b007275/"><img src="https://img.shields.io/badge/-Roni%20Febrone%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ronifebrone9@gmail.com"><img src="https://img.shields.io/badge/-ronifebrone9@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://api.sheetmonkey.io/form/9GvobwFQxu2WgcHWg6yY5S">
+<a href="https://wa.me/5521975877461">
     <img style="height: 20px;" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
